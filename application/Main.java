@@ -1,4 +1,4 @@
-import entities.StringTriangle;
+
 
 public class Main {
     
